@@ -509,6 +509,18 @@ class SWN3Lexicon(ResourceLexicon):
         datapath = os.path.join(curpath, 'data/SentiWordNet_3.0.0.lex')
         super(SWN3Lexicon, self).__init__('SWN3', sentlexutil.readSWN3)
         self.load(datapath)
+        
+
+class SWN_FR(ResourceLexicon):
+    '''
+      Implements SWN3.0 lexicon translated to French as a class
+    '''
+
+    def __init__(self):
+        curpath = os.path.dirname(os.path.abspath(__file__))
+        datapath = os.path.join(curpath, 'data/swn1000_fr.txt')
+        super(SWN3Lexicon, self).__init__('SWN3', sentlexutil.readSWN3)
+        self.load(datapath)        
 
 
 class UICLexicon(ResourceLexicon):
