@@ -1,0 +1,1001 @@
+PosScore NegScore SynsetTerms
+0.25 0.0 dissident
+0.25 0.0 parturiente
+0.5 0.0 absolu
+0.75 0.0 direct
+0.5 0.5 "implicite aveugle"
+0.5 0.125 vivant
+0.25 0.5 "relatif comparatif"
+0.375 0.0 absorbant
+0.0 0.75 "assimilatoire assimilatif assimilant"
+0.0 0.5 "non absorbant non absorbant"
+0.0 0.25 "chimiosorbant chimiosorbant"
+0.0 0.25 "non adsorbant non adsorbant"
+0.5 0.0 résorbable
+0.25 0.0 "adsorbant adsorbable"
+0.0 0.5 "crapuleux crapuleux"
+0.375 0.0 "notionnel idéationnel conceptuel"
+0.375 0.25 conceptuel
+0.125 0.125 "idéologique idéologique"
+0.625 0.25 béton
+0.0 0.25 abondant
+0.0 0.25 "en abondance"
+0.125 0.0 "riche abondant abondant copieux copieux"
+0.25 0.625 facile
+0.0 0.25 "tapageuse abondante luxuriante luxuriante exubérante"
+0.0 0.5 épais
+0.125 0.375 long
+0.125 0.5 "sévissant pléthorique surabondant"
+0.0 0.25 copieux
+0.0 0.25 rang
+0.125 0.5 surabondant
+0.0 0.375 torrentiel
+0.125 0.5 verdoyant
+0.0 0.25 rare
+0.0 0.875 rare
+0.0 0.625 serré
+0.0 0.75 battu
+0.375 0.25 "sans abus"
+0.625 0.0 acceptable
+0.25 0.0 bancable
+0.25 0.625 "irréprochable irréprochable"
+0.0 0.5 irréprochable
+0.125 0.375 inacceptable
+0.0 0.375 "répréhensible répréhensible"
+0.625 0.0 accessible
+0.375 0.0 "joignable accessible"
+0.125 0.125 "prêt à l'emploi"
+0.5 0.125 "inaccessible inaccessible"
+0.125 0.0 "arrière-pays éloigné"
+0.125 0.25 "sans chemin sans chemin"
+0.5 0.0 "accommodant accommodant"
+0.75 0.0 "obligeant complaisant"
+0.25 0.25 "désobligeant désobligeant"
+0.125 0.25 "non coopératif désobligeant"
+0.5 0.0 exact
+0.625 0.0 "fidèle proche"
+0.5 0.0 chirurgical
+0.125 0.0 "vrai dead_on_target"
+0.875 0.0 "droit véridique"
+0.125 0.625 inexacte
+0.125 0.75 "faux incorrect défectueux"
+0.0 0.5 infidèle
+0.0 0.625 "large_de_la_marque large"
+0.125 0.0 habitué
+0.0 0.75 inhabituel
+0.0 0.125 Nouveau
+0.0 0.125 inutilisé
+0.0 0.125 acide
+0.0 0.375 acide
+0.125 0.375 "alcalescent alcalescent"
+0.25 0.0 "de base"
+0.25 0.125 "ressemblant à du sel"
+0.5 0.0 "amphotère amphiprotique"
+0.125 0.0 reconnu
+0.5 0.0 "reconnu reconnu accepté"
+0.25 0.0 présumé
+0.375 0.0 déclarable
+0.125 0.0 putatif
+0.0 0.625 "non reconnu"
+0.0 0.375 "non apprécié méconnu méconnu"
+0.25 0.0 "secret non avoué"
+0.0 0.375 inavoué
+0.0 0.5 "non reconnu non reconnu"
+0.375 0.0 cumulatif
+0.25 0.5 "vorace rapace rapace"
+0.0 0.5 sordide
+0.0 0.5 "peu acquis"
+0.5 0.125 actif
+0.375 0.0 "gymnastique athlétique acrobatique"
+0.5 0.0 chaud
+0.25 0.0 "hyperactif hyperactif"
+0.125 0.0 "Pret à partir"
+0.25 0.0 sportif
+0.375 0.5 inactif
+0.25 0.375 "en sommeil"
+0.0 0.625 "hypoactif hypoactif"
+0.25 0.125 "engourdi détrempé paresseux inerte"
+0.125 0.0 sédentaire
+0.0 0.125 activé
+0.0 0.625 "à l'arrêt"
+0.0 0.625 "à la retraite"
+0.25 0.125 rapide
+0.5 0.0 animé
+0.375 0.25 occupé
+0.0 0.5 Aller
+0.125 0.375 élastique
+0.25 0.0 inactif
+0.25 0.0 morte
+0.0 0.5 "paresseux lent terne"
+0.125 0.625 "inutilisé inactif"
+0.375 0.5 actif
+0.0 0.25 progressive
+0.0 0.375 inactif
+0.125 0.25 latent
+0.0 0.625 tranquille
+0.125 0.0 actif
+0.0 0.5 actif
+0.125 0.5 éruptif
+0.0 0.25 tranquille
+0.25 0.625 morte
+0.0 0.5 actif
+0.5 0.0 "vivre en vie"
+0.25 0.0 actif
+0.125 0.0 activé
+0.0 0.5 contre-actif
+0.0 0.625 inactif
+0.375 0.0 actif
+0.0 0.5 calme
+0.125 0.5 "existant réel"
+0.5 0.0 efficace
+0.0 0.25 "potentiel possible"
+0.0 0.625 latent
+0.0 0.5 aigu
+0.0 0.375 dégénératif
+0.5 0.0 virulent
+0.125 0.375 hautement_infectieux
+0.125 0.25 mortel
+0.0 0.875 avirulent
+0.25 0.0 "adaptatif adaptatif"
+0.625 0.125 "concilier accommodant"
+0.625 0.125 adaptatif
+0.5 0.375 inadapté
+0.375 0.25 inadapté
+0.0 0.125 "sans dépendance"
+0.5 0.0 nettoyer
+0.25 0.5 "non addictif"
+0.0 0.375 additif
+0.5 0.0 "additionnable additionnable"
+0.125 0.125 "complétant complémentaire complémentaire"
+0.25 0.0 soustractif
+0.625 0.0 ablatif
+0.125 0.0 adressé
+0.0 0.125 "sans adresse"
+0.375 0.25 "jusqu'à égal_à capable adéquat_à"
+0.25 0.0 compétent
+0.0 0.5 "inégal inadéquat"
+0.0 0.625 "voulant manquer déficient"
+0.0 0.25 "incompétent incapable"
+0.25 0.5 adhésif
+0.25 0.0 cautionnable
+0.0 0.5 cohésif
+0.0 0.25 "gommeux gommé"
+0.0 0.75 "non adhésif"
+0.0 0.625 "non visqueux non gluant"
+0.0 0.75 "non gommé"
+0.125 0.0 "essentiel de fond"
+0.75 0.0 adoptable
+0.375 0.0 "décoré orné"
+0.0 0.375 "orné de pierres précieuses ornées de pierres précieuses"
+0.0 0.5 barbouillé
+0.0 0.25 "à lunettes à lunettes"
+0.0 0.125 boutonné
+0.0 0.25 "huppé à plumes"
+0.0 0.125 "à plumes à plumes"
+0.0 0.125 "à volants"
+0.0 0.125 bordé
+0.0 0.125 enflammé
+0.0 0.125 incrusté
+0.0 0.125 "lambris lambrissé"
+0.0 0.125 tapissé
+0.0 0.125 "à glands à glands"
+0.0 0.125 huppé
+0.25 0.625 "non décoré"
+0.125 0.25 "sans ornements sans fioritures de rechange uni nu"
+0.375 0.375 "sans touffe"
+0.25 0.0 adroit
+0.625 0.0 propre
+0.625 0.0 "ingénieux rusé astucieux"
+0.25 0.25 "adroit adroit adroit"
+0.25 0.0 pratique
+0.25 0.375 maladroit
+0.5 0.125 "incompétent sans tact"
+0.125 0.375 "non coordonné"
+0.0 0.25 "non mécanique non mécanique"
+0.625 0.0 avantageux
+0.75 0.0 "positif plus"
+0.125 0.25 "préférentiel discriminatoire"
+0.75 0.25 désavantageux
+0.0 0.875 "négatif moins"
+0.625 0.25 "aventureux aventureux"
+0.375 0.125 "aventureux aventureux audacieux audacieux"
+0.25 0.25 sportif
+0.375 0.25 "fanfaronnade fanfaronnade"
+0.25 0.375 "peu aventureux"
+0.625 0.0 conseillé
+0.75 0.0 "mieux que, le meilleur"
+0.625 0.0 bien
+0.125 0.625 "déconseillé déconseillé"
+0.0 0.375 "anaérobie anaérobie"
+0.5 0.0 aérobique
+0.0 0.25 anaérobie
+0.625 0.0 "esthétique esthétique esthétique esthétique"
+0.625 0.0 artistique
+0.25 0.0 pictural
+0.375 0.125 sensuel
+0.5 0.5 "inesthétique inesthétique"
+0.125 0.5 "non artistique inartistique"
+0.375 0.0 affecté
+0.5 0.5 impressionné
+0.0 0.625 matière
+0.125 0.5 pris
+0.125 0.125 "non affecté"
+0.0 0.625 immunitaire
+0.125 0.0 supérieur
+0.0 0.625 "peu impressionné"
+0.0 0.25 "guindé hokey artificiel artificiel"
+0.125 0.625 "tendu forcé contraint"
+0.0 0.25 élocutoire
+0.0 0.375 maniéré
+0.25 0.125 prune
+0.75 0.125 "non affecté"
+0.25 0.0 "naturel réaliste"
+0.0 0.375 "sans manière"
+0.5 0.0 "affirmatif affirmatif"
+0.25 0.0 assentiment
+0.0 0.75 négatif
+0.0 0.625 "dissident dissident dissident"
+0.375 0.25 acceptant
+0.375 0.125 acceptant
+0.125 0.5 rejetant
+0.125 0.875 dédaigneux
+0.0 0.5 peur
+0.0 0.75 acrophobe
+0.0 0.125 "peur peur"
+0.25 0.0 "choqué consterné consterné"
+0.0 0.75 agoraphobe
+0.0 0.625 alarmé
+0.0 0.875 algophobe
+0.125 0.625 inquiet
+0.125 0.25 "de chien battu"
+0.125 0.375 craintif
+0.0 0.125 "effrayé effrayé"
+0.625 0.125 chassé
+0.0 0.75 "hydrophobe aquaphobe"
+0.0 0.75 mysophobe
+0.0 0.75 engourdi
+0.0 0.375 "sans merde"
+0.0 0.625 triskaidekaphobe
+0.0 0.625 énervé
+0.0 0.75 xénophobe
+0.25 0.125 "sans peur sans peur"
+0.0 0.625 "sans appréhension"
+0.25 0.375 "sans rétrécir sans broncher sans broncher"
+0.625 0.25 "sans peur"
+0.5 0.0 agressif
+0.5 0.0 "combatif belliqueux batailleur"
+0.125 0.25 tapageur
+0.375 0.125 décousu
+0.25 0.5 agressif
+0.0 0.625 "non agressif non agressif"
+0.0 0.5 agité
+0.25 0.5 "excité excité excité"
+0.0 0.125 "surmené désemparé"
+0.0 0.5 "secoué secoué"
+0.375 0.375 "mouvementé fébrile"
+0.25 0.5 "frénétique frénétique frénétique frénétique"
+0.125 0.625 hystérique
+0.0 0.5 psychédélique
+0.125 0.625 "non agité"
+0.0 0.125 agité
+0.0 0.75 "non agité"
+0.0 0.25 "non turbulent"
+0.5 0.25 "sans agitation"
+0.125 0.875 désagréable
+0.0 0.5 "vexant vexatoire taquineries peste pestiféré pestiféré harcelant embêtant ornithologique irritant irritant ennuyeux ennuyeux"
+0.333 0.667 "abrasif dur"
+0.0 0.625 "non sucré"
+0.5 0.0 "alerte vigilante"
+0.125 0.625 mouche
+0.25 0.5 "inattentif inattentif"
+0.125 0.0 "transférable transférable négociable transférable cessible"
+0.125 0.375 "inaliénable inaliénable"
+0.125 0.625 "inviolable infrangible absolu"
+0.125 0.5 "incessible incessible incessible"
+0.125 0.0 "vivre en vie"
+0.375 0.125 "né vivant"
+0.5 0.0 viable
+0.0 0.75 morte
+0.0 0.5 "parti décédé décédé au_repos en_paix endormi"
+0.0 0.75 "sans pouls inanimé essoufflé"
+0.0 0.375 froid
+0.0 0.375 "mortellement mortel"
+0.0 0.375 condamné
+0.0 0.25 déchu
+0.125 0.0 "en retard"
+0.0 0.5 "exanimer sans vie"
+0.0 0.625 "non viable"
+0.25 0.5 mort-né
+0.25 0.0 eccrin
+0.0 0.125 subartésien
+0.5 0.0 Direct
+0.0 0.125 vivant
+0.0 0.625 morte
+0.0 0.125 éteint
+0.0 0.75 "sans vie"
+0.0 0.125 analphabète
+0.25 0.0 précoce
+0.875 0.0 "désintéressé altruiste"
+0.125 0.0 ambiguë
+0.25 0.125 "oraculaire énigmatique"
+0.375 0.375 incertain
+0.125 0.0 monosémique
+0.5 0.125 ambitieux
+0.625 0.0 "arrogant arrogant"
+0.5 0.0 "aspirant aspirant"
+0.375 0.0 "motivé déterminé compulsif"
+0.375 0.25 "trop ambitieux"
+0.5 0.0 "sans ambition sans ambition"
+0.25 0.5 paresseux
+0.0 0.25 amétrope
+0.25 0.0 généreuse
+0.0 0.625 "avare scrimpy maigre maigre maigre"
+0.0 0.5 "de rechange peu nu"
+0.125 0.625 exigu
+0.0 0.375 durscrabble
+0.5 0.0 anabolisant
+0.0 0.75 "catabolique catabolique"
+0.0 0.25 "stigmatique anastigmatique"
+0.125 0.0 "analytique analytique"
+0.125 0.0 "analytique non fléchi"
+0.125 0.125 flexionnel
+0.0 0.25 dérivationnel
+0.375 0.375 fâché
+0.0 0.5 "provoqué aggravé"
+0.25 0.25 "affolé furieux furieux enragé en colère"
+0.125 0.5 "le noir"
+0.125 0.625 "colérique irascible"
+0.125 0.125 chaud_sous_le_col
+0.0 0.75 "ombrageux indigné indigné furieux"
+0.125 0.5 furieux
+0.125 0.0 livide
+0.0 0.25 "courroucé courroucé"
+0.0 0.125 "sans colère"
+0.0 0.875 irrité
+0.5 0.25 "amer acrimonieux"
+0.0 0.5 "sans ressentiment"
+0.0 0.75 "sans amertume"
+0.125 0.25 ressentir
+0.125 0.5 "insensible insensé"
+0.25 0.5 insensible
+0.375 0.0 "animé vivant"
+0.375 0.0 "fougueux animé"
+0.375 0.25 "vital animé pleine_de_vie"
+0.5 0.125 "ressuscité réanimé"
+0.375 0.5 inanimé
+0.25 0.0 "sans vie"
+0.25 0.5 blême
+0.5 0.0 animé
+0.875 0.0 ragaillardi
+0.0 0.625 "sans animation"
+0.0 0.5 "anonyme anonyme."
+0.0 0.125 "postmortem postmortel"
+0.375 0.125 "prévenant anticipatoire"
+0.0 0.125 courbé
+0.0 0.125 précédent
+0.0 0.125 "au dessus"
+0.375 0.0 précédé
+0.0 0.625 "nouveau sans exemple"
+0.0 0.125 "non préhensible"
+0.0 0.125 "prénatal prénatal prénatal"
+0.0 0.125 "post-partum postnatal"
+0.0 0.125 rétrograde
+0.0 0.125 antérograde
+0.0 0.5 "sans appel"
+0.0 0.625 "sans appendice"
+0.5 0.25 "appétissant appétissant"
+0.0 0.75 "peu appétissant peu appétissant"
+0.125 0.125 accessible
+0.0 0.375 inabordable
+0.125 0.625 "indifférent aux poissons"
+0.5 0.0 tapoter
+0.125 0.75 inapproprié
+0.0 0.625 inconvenant
+0.0 0.875 faux
+0.125 0.125 "payable encaissement encaissement"
+0.0 0.25 "délinquant en souffrance"
+0.125 0.25 indu
+0.75 0.0 exigible
+0.0 0.625 indu
+0.5 0.125 "à propos"
+0.375 0.25 "pertinent apt pertinent"
+0.25 0.75 malapropos
+0.125 0.875 "out_of_place inopportun"
+0.25 0.0 "a priori"
+0.125 0.0 "a postériori"
+0.0 0.5 aptéral
+0.375 0.0 "amphistylaire à portique amphiprostyle amphiprostylaire"
+0.375 0.0 "pseudoprostyle prostyle"
+0.0 0.625 "non arbitrable"
+0.375 0.25 "de colonne"
+0.125 0.0 "à colonnade"
+0.125 0.0 "à piliers"
+0.0 0.5 "sans colonne sans colonne"
+0.0 0.25 astylaire
+0.125 0.25 "sans pilier"
+0.0 0.625 "non arboricole"
+0.0 0.125 "arénacé sablonneux"
+0.0 0.125 "argileux argileux"
+0.25 0.125 armé
+0.0 0.5 "sans armes"
+0.125 0.0 "mains nues"
+0.125 0.0 nettoyer
+0.0 0.125 "blindé blindé"
+0.375 0.25 blindé
+0.0 0.125 armé
+0.0 0.375 "épineux épineux soyeux sébacé épineux burry burred hérissé briery briary barbellate barbelé"
+0.25 0.25 hérissé
+0.0 0.125 "en forme de pinceau"
+0.25 0.25 chardon
+0.0 0.25 "griffu griffu"
+0.0 0.625 "sans armes"
+0.125 0.375 "sans épines sans épines"
+0.0 0.125 "en forme de bras"
+0.0 0.125 "blindé blindé"
+0.0 0.125 "non blindé non blindé"
+0.0 0.625 "sans échelle"
+0.625 0.0 astucieux
+0.625 0.125 "rusé rusé rusé sournois malin rusé rusé rusé rusé"
+0.625 0.0 "précieux mignon"
+0.625 0.0 Profond
+0.25 0.625 naïf
+0.25 0.375 imprudent
+0.125 0.5 articuler
+0.0 0.625 "inarticulé inarticulé"
+0.0 0.75 aphasique
+0.0 0.75 "aphone sans voix"
+0.0 0.625 "muet sans voix"
+0.0 0.5 inarticulé
+0.0 0.625 "articulé articulé"
+0.0 0.625 inarticulé
+0.0 0.5 "non articulé"
+0.0 0.75 honteux
+0.0 0.5 "déshonoré déshonoré déshonoré discrédité"
+0.0 0.5 "mortifié humilié embarrassé"
+0.5 0.25 "penaud honteux"
+0.25 0.25 "sans honte"
+0.125 0.625 "éhonté sans vergogne"
+0.25 0.0 "énergique emphatique"
+0.0 0.625 "associatif associatif"
+0.625 0.0 associable
+0.0 0.125 "non associatif"
+0.125 0.125 "engagé attaché"
+0.25 0.0 "fiancé sur mesure"
+0.0 0.75 "non engagé"
+0.0 0.625 "non promis"
+0.125 0.0 apposé
+0.0 0.25 "non fixé en vrac"
+0.0 0.125 "sans pédoncule sessile"
+0.0 0.125 "pédonculé pédonculé"
+0.0 0.625 sessile
+0.0 0.5 "autoportant séparé"
+0.5 0.25 décollé
+0.5 0.0 attachable
+0.5 0.0 "cautionnable reliable"
+0.25 0.0 détachable
+0.625 0.0 clastique
+0.625 0.0 méfiant
+0.375 0.0 "sur_votre_garde sur_votre_garde sur_votre_garde sur_garde"
+0.375 0.125 timide
+0.5 0.125 crédule
+0.0 0.25 "non gardé"
+0.25 0.0 attentif
+0.5 0.0 "annonce attentive"
+0.5 0.0 observateur
+0.125 0.625 "trop sollicité"
+0.375 0.125 soucieux
+0.25 0.375 inattentif
+0.375 0.125 "scatty abstrait distrait absent"
+0.0 0.25 "distrait distrait"
+0.25 0.25 "rêveur lunaire"
+0.25 0.375 "bâillement oscitant assoupi"
+0.375 0.0 "inconscient oublieux"
+0.875 0.0 attrayant
+0.5 0.0 "fascinant envoûtant captivant enchanteur captivant envoûtant"
+0.5 0.0 "magnétique charismatique"
+0.5 0.0 "mignon rusé"
+0.5 0.0 mignon
+0.875 0.0 "piquant engageant"
+0.625 0.0 "gagner prendre aller chercher"
+0.0 0.375 "brillant voyant"
+0.375 0.0 "envoûtant envoûtant hypnotique hypnotique"
+0.625 0.125 irrésistible
+0.625 0.0 charmant
+0.5 0.0 photogénique
+0.5 0.0 avenant
+0.625 0.0 séduisant
+0.5 0.25 "peu attrayant"
+0.375 0.25 "simple simple"
+0.125 0.25 subfusc
+0.0 0.125 "imprésentable sans prétention"
+0.5 0.0 repoussant
+0.375 0.0 attrayant
+0.125 0.625 "peu attrayant"
+0.375 0.0 "peu attrayant"
+0.625 0.0 attribuable
+0.0 0.25 "référable imputable dû imputable"
+0.125 0.25 "inattribuable indescriptible"
+0.0 0.125 "pas enceinte"
+0.375 0.0 "audible audible"
+0.125 0.5 "inaudible inaudible"
+0.125 0.0 "sans voix respiré"
+0.375 0.0 infrasonique
+0.0 0.625 "muet silencieux"
+0.375 0.0 "supersonique à ultrasons"
+0.25 0.0 inouï
+0.625 0.0 "de bon augure"
+0.0 0.375 "prometteur plein d'espoir brillant"
+0.75 0.0 "rose chanceux"
+0.111 0.889 "malheureux de mauvais augure"
+0.125 0.5 "peu prometteur"
+0.5 0.0 propice
+0.75 0.0 "prospère chanceux d'or favorable favorable"
+0.375 0.0 gracieux
+0.0 0.625 "peu propice"
+0.125 0.875 tonitruant
+0.0 0.375 "autorisé autorisé"
+0.125 0.125 "glorifié canonisé canonisé"
+0.0 0.875 "non autorisée non autorisée"
+0.0 0.25 "sans licence sans licence sans accréditation"
+0.0 0.75 inconstitutionnel
+0.5 0.0 intelligent
+0.125 0.375 manuel
+0.375 0.0 disponible
+0.125 0.0 accessible
+0.625 0.0 acquérir
+0.625 0.0 adressable
+0.125 0.0 facile
+0.125 0.0 "à venir"
+0.625 0.0 "procurable procurable procurable procurable"
+0.25 0.0 prêtable
+0.375 0.0 visible
+0.375 0.0 "à portée de main"
+0.0 0.5 ouvert
+0.375 0.5 indisponible
+0.0 0.625 "intouchable introuvable inaccessible inaccessible"
+0.0 0.625 "En rupture de stock"
+0.125 0.5 éveillé
+0.25 0.25 éveillé
+0.0 0.125 "son_endormi rapidement_endormi"
+0.5 0.125 "somnolent somnolent somnolent somnolent somnolent"
+0.0 0.25 "non réveillé"
+0.125 0.25 astringent
+0.125 0.375 "hémostatique hémostatique"
+0.0 0.375 "non astringent"
+0.5 0.0 "connaissant connaissant"
+0.625 0.0 "alerte éveillé vivant"
+0.0 0.25 "inconscient ignorant"
+0.125 0.25 "inconscient inconscient"
+0.0 0.625 "sans méfiance"
+0.375 0.0 conscient
+0.0 0.625 involontaire
+0.0 0.5 alarmant
+0.0 0.5 "consternant épouvantable"
+0.0 0.625 "terrible épouvantable épouvantable épouvantable épouvantable épouvantable redoutable redoutable horrible"
+0.0 0.75 "menaçant sinistre inquiétant minatoire minatoire menaçant menaçant menaçant funeste"
+0.0 0.75 "frissonnant frissonnant effrayant effrayant effrayant"
+0.25 0.625 "malade macabre macabre macabre sinistre épouvantable"
+0.0 0.25 poilu
+0.0 0.25 pétrifiant
+0.25 0.125 stupéfiant
+0.0 0.625 "terrifiant formidable"
+0.25 0.25 "non alarmant"
+0.5 0.0 rassurant
+0.375 0.125 "apaisant assuasif"
+0.5 0.0 assurer
+0.5 0.5 "consolant consolateur réconfortant"
+0.25 0.5 "inquiétant peu rassurant"
+0.375 0.0 premier
+0.0 0.125 relié
+0.0 0.25 "dos nu"
+0.125 0.0 "inverse inverse"
+0.0 0.5 "rétrograde rétrograde"
+0.375 0.375 "retour inverse"
+0.125 0.0 "tête baissée tête la première"
+0.0 0.125 inverse
+0.5 0.0 "en arrière"
+0.25 0.0 "blate timide"
+0.25 0.25 "vers l'avant"
+0.0 0.125 "trop familier"
+0.0 0.125 "sage intelligent impertinent impertinent audacieux impudent impertinent frais"
+0.0 0.5 "présomptueux présomptif supposant"
+0.0 0.5 "sans balcon"
+0.0 0.75 "sans canon sans canon"
+0.25 0.25 "à bec"
+0.0 0.25 "en forme de bec"
+0.0 0.625 "sans bec"
+0.0 0.5 "sans lit"
+0.0 0.625 "sans bénéfice"
+0.0 0.125 "en forme de feuille"
+0.0 0.75 "non stratifié"
+0.0 0.5 "fougère fougère"
+0.25 0.0 "fougère fougère"
+0.375 0.0 "sans fougère"
+0.0 0.25 "ressemblant à un jonc"
+0.0 0.25 énervé
+0.0 0.25 "sans herbe"
+0.0 0.5 "sans gousset"
+0.0 0.5 chauve
+0.0 0.125 calvitie
+0.125 0.375 dépileux
+0.125 0.375 glabrescent
+0.125 0.375 glabre
+0.0 0.25 "poilu poilu"
+0.125 0.25 "canescent chenu"
+0.0 0.375 "pubère pubescente pubérulente duveteuse"
+0.0 0.25 "ressemblant à de la fourrure"
+0.125 0.0 "flou flou"
+0.0 0.125 "lanate laineux"
+0.0 0.25 papa
+0.0 0.25 "pileux pileux pilaire"
+0.0 0.25 "sans arête"
+0.75 0.0 belle
+0.125 0.0 beau
+0.75 0.0 "beau beau bonny bonnie"
+0.5 0.0 plat
+0.5 0.125 exquis
+0.625 0.125 "splendide splendide resplendissant glorieux"
+0.75 0.0 magnifique
+0.625 0.0 joli
+0.75 0.0 pittoresque
+0.875 0.125 jolie
+0.5 0.125 pulchritudineux
+0.75 0.0 ravissant
+0.25 0.0 scénique
+0.0 0.375 moche
+0.25 0.375 défiguré
+0.0 0.75 moche
+0.125 0.375 "monstrueux grotesque"
+0.25 0.625 "repoussant hideux"
+0.375 0.625 "pas pittoresque"
+0.0 0.625 disgracieux
+0.0 0.375 ventru
+0.0 0.75 "sans bande"
+0.25 0.125 bagué
+0.125 0.25 "sans ceinture sans ceinture"
+0.75 0.0 bienfaisant
+0.75 0.0 bénéfique
+0.0 0.75 maléfique
+0.0 0.625 funeste
+0.375 0.25 "maléfique maléfique maléfique"
+0.375 0.625 "vindicatif rancunier rancunier"
+0.0 0.875 malveillant
+0.125 0.75 "garce catty catty"
+0.0 0.75 "vicieux venimeux vénéneux"
+0.125 0.75 venimeux
+0.0 0.875 renarde
+0.222 0.778 "non malveillant"
+0.875 0.0 "bénin bénin"
+0.5 0.0 gentil
+0.25 0.625 calomnier
+0.125 0.625 cancéreux
+0.75 0.0 meilleur
+0.5 0.0 "optimale optimale"
+0.625 0.0 premier
+0.375 0.125 superfin
+0.25 0.625 "inégalé inégalé inégalé"
+1.0 0.0 insurpassable
+0.25 0.75 pire
+0.25 0.375 fond
+0.125 0.5 "pessimum pessimal"
+0.875 0.0 meilleur
+0.5 0.0 modifié
+0.75 0.0 "plus fin"
+0.5 0.25 amélioré
+0.0 0.75 pire
+0.0 0.25 aggravé
+0.875 0.0 meilleur
+0.5 0.0 "en meilleure santé"
+0.556 0.444 "aggravé pire"
+0.375 0.0 améliorer
+0.375 0.5 "mélioratif mélioratoire mélioratif mélioratif"
+0.625 0.0 correctif
+0.125 0.375 correctif
+0.0 0.25 détérioration
+0.0 0.5 "sans visage"
+0.125 0.5 anonyme
+0.125 0.25 "sans bavette"
+0.125 0.0 bimodal
+0.0 0.125 nordique
+0.0 0.25 "brune brune"
+0.0 0.375 taché
+0.0 0.375 "pustulé boutonneux boutons acnéique"
+0.0 0.5 tacheté
+0.5 0.0 "soufflé à la mouche"
+0.0 0.625 cicatrisé
+0.125 0.5 "grêlé grêlé"
+0.625 0.0 "non mutilé sans tache sans tache"
+0.625 0.0 "sans tache sans tache sans tache sans tache inoxydable"
+0.0 0.25 sanglant
+0.0 0.375 sanglant
+0.625 0.125 "homicide meurtrier"
+0.0 0.625 "sanglant sanglant sanguinaire sanguinaire sanglant"
+0.0 0.5 fratricide
+0.25 0.25 exsangue
+0.5 0.125 audacieux
+0.25 0.0 "intrépide intrépide hardi intrépide courageux audacieux"
+0.5 0.125 "casse-cou téméraire"
+0.375 0.0 enhardi
+0.5 0.0 "héroïque héroïque"
+0.5 0.5 nerveux
+0.5 0.25 survaillant
+0.625 0.0 timide
+0.25 0.0 timide
+0.125 0.25 "trépidant timoré craintif"
+0.375 0.125 intimidé
+0.5 0.25 "souris souris"
+0.0 0.75 "non lié"
+0.0 0.375 "délié délié déchaîné déchaîné"
+0.0 0.75 "sans attache"
+0.0 0.125 délié
+0.125 0.0 "imbriqué imbriqué"
+0.0 0.125 démêlé
+0.125 0.0 "relié en laiton"
+0.0 0.75 "non lié"
+0.375 0.25 "bourgeois conservateur matérialiste"
+0.375 0.0 qualité
+0.0 0.375 tweed
+0.125 0.0 galant
+0.125 0.375 "courageux fougueux fougueux graveleux gamy gamey jeu"
+0.375 0.25 "cœur de lion"
+0.25 0.0 "vaillant cœur"
+0.5 0.0 intrépide
+0.625 0.0 "valeureux vaillant"
+0.0 0.5 lâche
+0.0 0.25 froussard
+0.625 0.0 poltron
+0.375 0.375 "sans tripes"
+0.0 0.75 "dyspnéique dyspnée dyspnéique dyspnée essoufflé"
+0.125 0.375 asphyxiant
+0.0 0.25 "non cristallin"
+0.125 0.5 "non cristallisé non cristallisé amorphe"
+0.5 0.25 lumière
+0.0 0.125 brillant
+0.25 0.125 candescent
+0.125 0.0 luminescent
+0.0 0.125 phosphorescent
+0.125 0.125 foncé
+0.125 0.25 aphotique
+0.0 0.25 caligineux
+0.125 0.625 crépusculaire
+0.0 0.125 ténébreux
+0.125 0.75 "faible intensité"
+0.0 0.125 "boudeur sombre sombre sombre"
+0.125 0.0 "éteint éteint éteint éteint"
+0.125 0.125 semi-foncé
+0.0 0.125 "ténébreux ténébreux ténébreux"
+0.0 0.375 "ombragé ombragé ombragé ombragé"
+0.0 0.625 "non ombragé"
+0.0 0.5 "non ombragé"
+0.0 0.5 "sans lune"
+0.375 0.0 pontable
+0.0 0.125 infranchissable
+0.125 0.0 brillant
+0.375 0.0 "nitide brillant"
+0.25 0.0 "lumineux lucent lambent incandescent"
+0.125 0.0 "resplendissant rayonnant resplendissant resplendissant rayonnant"
+0.625 0.125 "éblouissant éclatant éblouissant éblouissant aveuglant flamboyant"
+0.375 0.125 brillant_as_a_new_penny
+0.375 0.125 génial
+0.25 0.0 scintillant
+0.5 0.0 "brillant brillant lustré lustré"
+0.125 0.0 sinistre
+0.375 0.0 noctilumineux
+0.125 0.0 "lisse lisse soyeux soyeux soyeux satiné"
+0.375 0.0 scintillant
+0.125 0.0 "argenté argenté"
+0.375 0.0 scintillement
+0.375 0.0 terne
+0.0 0.25 "mat mat mat mat plat"
+0.375 0.375 "terne terne terne terne"
+0.125 0.75 doux
+0.25 0.125 estompé
+0.0 0.75 "lumineux non atténué"
+0.0 0.125 homophobe
+0.25 0.625 ictère
+0.25 0.0 chargé
+0.5 0.0 "impartial impartial"
+0.625 0.0 catholique
+0.5 0.25 "dogmatique dogmatique"
+0.0 0.125 cassé
+0.0 0.125 brisé
+0.0 0.5 "ininterrompu gardé"
+0.0 0.125 cassé
+0.0 0.125 "pointillé pointillé"
+0.125 0.125 s'arrêter
+0.0 0.375 solide
+0.0 0.375 "enterré inhumé enterré"
+0.0 0.25 "non enterré"
+0.375 0.0 occupé
+0.0 0.375 peiner
+0.125 0.0 "occupé engagé"
+0.375 0.0 "trop occupé"
+0.5 0.0 jusqu'à
+0.0 0.625 inactif
+0.375 0.5 libre
+0.0 0.25 osseux
+0.0 0.625 "sans os"
+0.0 0.125 "déboutonné déboutonné"
+0.25 0.0 "capitaliste capitaliste"
+0.0 0.625 "râpeux rugueux râpeux râpeux graveleux râpant"
+0.0 0.625 discordant
+0.0 0.5 "strident rauque"
+0.625 0.0 "euphonique euphonique"
+0.0 0.25 d'or
+0.0 0.25 "argent argenté"
+0.5 0.0 calculable
+0.125 0.625 incalculable
+0.125 0.625 indéterminable
+0.375 0.0 calmes
+0.5 0.0 "imperturbable tranquille encore lisse calme placide"
+0.5 0.25 colonisé
+0.0 0.5 "sans vent"
+0.0 0.75 orageux
+0.375 0.5 "sauvage tumultueux déchaîné furieux en colère"
+0.125 0.625 "gonflant gonflant"
+0.0 0.125 "fanfaronnade fanfaronnade"
+0.0 0.375 "venteux venteux venteux"
+0.0 0.25 agité
+0.0 0.75 sale
+0.0 0.625 orageux
+0.0 0.5 orageux
+0.0 0.25 camphré
+0.0 0.25 "non camphré"
+0.125 0.0 capable
+0.125 0.0 pouvoir
+0.5 0.125 ingénieux
+0.125 0.125 incapable
+0.0 0.375 incapable
+0.0 0.75 incapable
+0.125 0.25 "négligé sans surveillance"
+0.0 0.125 "non entretenu"
+0.5 0.0 prudent
+0.25 0.0 "sûr certain"
+0.625 0.0 proche
+0.25 0.375 "scrupuleux minutieux consciencieux"
+0.5 0.25 "minute étroite"
+0.375 0.0 protecteur
+0.25 0.125 studieux
+0.75 0.0 complet
+0.0 0.5 imprudent
+0.125 0.75 "passe superficielle"
+0.5 0.125 "bâclé bâclé bâclé au hasard"
+0.5 0.25 imprudent
+0.125 0.375 désinvolte
+0.0 0.125 omnivore
+0.0 0.125 "sans tapis"
+0.375 0.0 "sculpté sculpté gravé"
+0.0 0.125 "non sculpté"
+0.125 0.0 acatalectique
+0.0 0.125 catalectique
+0.0 0.5 "non censuré"
+0.0 0.25 "caudale en forme de queue"
+0.0 0.25 "acaudé acaudal"
+0.0 0.625 "anureux sans queue"
+0.25 0.0 "acaulescent acaule"
+0.125 0.0 causal
+0.0 0.375 abortif
+0.0 0.5 "anorexigène anorexigène"
+0.0 0.5 causal
+0.25 0.25 "tributaire contributif contributif contributif"
+0.0 0.5 errhin
+0.25 0.0 vite
+0.0 0.375 "motif moteur"
+0.0 0.125 précipiter
+0.0 0.375 "sternutatoire sternutatif"
+0.0 0.25 "non causal non causal"
+0.75 0.0 prudent
+0.5 0.25 "chary cagy cagey"
+0.25 0.0 Fabien
+0.625 0.0 "retenu gardé"
+0.625 0.0 "trop prudent"
+0.25 0.25 imprudent
+0.0 0.625 "déchirant fou impulsif impétueux tête brûlée intello"
+0.0 0.5 "acellulaire non cellulaire"
+0.5 0.0 cohérent
+0.125 0.625 incohérent
+0.0 0.75 "non compartimenté"
+0.0 0.625 "poreux poreux"
+0.0 0.625 "non poreux"
+0.125 0.0 bifocal
+0.375 0.0 "au milieu au milieu"
+0.125 0.0 nucléaire
+0.125 0.0 "frange marginale"
+0.125 0.0 "plinthe encerclant"
+0.0 0.125 centripète
+0.25 0.375 "unifiant centripète"
+0.375 0.5 "intégratif consolidant"
+0.125 0.5 "sûr incontestable"
+0.25 0.0 sure_as_shooting
+0.125 0.375 incertain
+0.0 0.5 indéfini
+0.375 0.125 "dans l'air"
+0.25 0.5 "sûr certain"
+0.125 0.375 "positif convaincu confiant"
+0.25 0.125 "incertain incertain incertain"
+0.0 0.625 ambivalent
+0.0 0.125 "douteux douteux"
+0.25 0.375 "à tâtons"
+0.125 0.0 convaincu
+0.125 0.625 "pas convaincu"
+0.0 0.25 douteux
+0.375 0.0 "sur de soi"
+0.625 0.0 assuré
+0.5 0.0 "présomption positive"
+0.625 0.0 rassuré
+0.0 0.5 incertain
+0.25 0.0 "dans l'air"
+0.625 0.125 agréé
+0.5 0.0 certifiable
+0.375 0.125 certifié
+0.375 0.0 accrédité
+0.0 0.25 "non certifié"
+0.0 0.625 inévitable
+0.125 0.0 "fatidique fatal"
+0.0 0.5 "incontournable incontournable inéluctable"
+0.125 0.0 nécessaire
+0.625 0.0 "évitable évitable évitable évitable"
+0.125 0.25 inévitable
+0.375 0.25 "changeant modifiable"
+0.625 0.0 Ajustable
+0.125 0.5 astatique
+0.375 0.5 "à carreaux"
+0.0 0.25 "vif-argent mercuriel capricieux erratique"
+0.125 0.0 portable
+0.25 0.0 réversible
+0.125 0.375 confirmé
+0.0 0.75 "congelé fixe"
+0.375 0.375 "serti_dans_la_pierre sculpté_dans_la_pierre"
+0.375 0.375 modifiable
+0.0 0.5 incommutable
+0.125 0.625 "intransmutable inconvertible"
+0.125 0.0 inaltérable
+0.5 0.0 modifiable
+0.0 0.75 "inaltérable inaltérable"
+0.25 0.5 incurable
+0.0 0.625 "dernière finale"
+0.0 0.625 "non modifiable"
+0.25 0.0 ajusté
+0.0 0.625 "non corrigé"
+0.0 0.375 inadapté
+0.125 0.375 ajusté
+0.0 0.25 inadapté
+0.0 0.625 "inadapté inadapté"
+0.375 0.0 modifié
+0.0 0.25 paraphrastique
+0.375 0.0 modifié
+0.125 0.0 "intemporel intemporel"
+0.5 0.25 inédit
+0.125 0.375 "non réduit"
+0.125 0.625 "non révisé"
+0.0 0.125 "sans modification"
+0.25 0.0 modifié
+0.375 0.375 "dénaturé dénaturé dénaturé"
+0.125 0.25 échangé
+0.125 0.0 transformé
+0.0 0.375 varié
+0.0 0.625 inchangé
+0.0 0.375 même
+0.375 0.0 "ionisé ionisé"
+0.375 0.125 "syndiqué syndiqué non ionisé non ionisé non ionique"
+0.625 0.0 "modifiable modifiable"
+0.0 0.625 "immuable immuable"
+0.375 0.25 "diagnostic symptomatique"
+0.25 0.0 "électropositif positif chargé positivement"
+0.0 0.25 "neutre électroneutre"
+0.5 0.125 charitable
+0.5 0.0 "philanthrope élémosynaire bienveillant bienfaisant"
+0.0 0.125 inexploré
+0.625 0.125 chaste
+0.375 0.0 "continent célibataire"
+0.25 0.0 "vertueuse virginale vierge vestale pure"
+0.25 0.25 impudique
+0.0 0.25 "dévergondée salope promiscuité lâche lumière facile"
+0.125 0.125 déchu
+0.5 0.25 licencieux
+0.75 0.0 "de bonne humeur"
+0.75 0.125 "heureux rayonnant"
+0.5 0.25 "guilleret chirpy flottant"
+0.5 0.0 "ensoleillé gay joyeux"
+0.125 0.625 "déprimant déprimant triste"
+0.0 0.625 "désolé sinistre sombre morne morne terne lugubre inconsolable terne bleu foncé"
